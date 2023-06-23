@@ -2,13 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b> Personal Digital Security Projects </b>
+- [Personal Digital Security You Should Implement Today](https://github.com/a-r-a-d-e-m-m/Personal-Digital-Security)
 - <b>Password Bruteforce Python Script</b>
-  - [Decrypting a Hijacked File Using Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  <!--- [Decrypting a Hijacked File Using Python]() -->
 
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Google IT Support Professional Certification</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [View my Google IT Support Professional Certification]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J))
 
 <h2> 🤳 Connect with me:</h2>
 
