@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Personal Digital Security Projects </b>
-- [Personal Digital Security You Should Implement Today](https://github.com/a-r-a-d-e-m-m/Personal-Digital-Security)
+  - [Personal Digital Security You Should Implement Today](https://github.com/a-r-a-d-e-m-m/Personal-Digital-Security)
 - <b>Password Bruteforce Python Script</b>
-  <!--- [Decrypting a Hijacked File Using Python]() -->
+  - [Decrypting a Hijacked File Using Python]()
 
 <h2>👨‍💻 Certifications:</h2>
 
