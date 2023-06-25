@@ -4,8 +4,9 @@
 
 - <b> Improve Your Personal Digital Security In 10 Minutes </b>
   - [Your Online Presence](https://github.com/a-r-a-d-e-m-m/Control-Your-Online-Information)
-- <b>Password Bruteforce Python Script</b>
-  - [Decrypting a Hijacked File Using Python]()
+- <b>Internship Experience at AIG Insurance as an Information Security Analyst</b>
+  - [How I Assessed a Vulnerability and Recommended Actionable Mitigations]()
+  - [How I Stopped a Ransomeware Attack by Decrypting a Hijacked File Using Python]()
 
 <h2> 🎓 🔏  Certifications:</h2>
 
