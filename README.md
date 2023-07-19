@@ -10,8 +10,7 @@
 
 <h2> 🎓 🔏  Certifications:</h2>
 
-- <b>Google IT Support Professional Certification</b>
-  - [View my Google IT Support Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J)
+- <b>Google IT Support Professional Certification:</b> [View my Google IT Support Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J)
 
 <h2> 🤳 🔗Connect with me:</h2> 
 
