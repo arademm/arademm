@@ -27,15 +27,14 @@
     - [How I Assessed a Vulnerability and Recommended Actionable Mitigations](https://github.com/a-r-a-d-e-m-m/Responding_to_a_Zero-Day_Vulnerability)
     - [How I Stopped a Ransomware Attack by Decrypting a Hijacked File Using Python](https://github.com/a-r-a-d-e-m-m/Bypassing_Ransomware)
 
-<!-- - <b> Home Labs </b>
+- <b> Home Labs </b>
 - <b> CTFs </b>
--->
 
 <h2> 🎓 🔏  Certifications & Skill Badges:</h2>
 
-  - <b>Google IT Support Professional Certified:</b> [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J) (proponent to CompTIA A+)
-  - <b>Junior Cyber Security Analyst</b> [View] (proponent to CCST (certified cybersecurity support technician))
-  - <b>CompTIA Linux+:</b> [View]
+  - [Google IT Support Professional Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J) (proponent to CompTIA A+)
+  - Junior Cyber Security Analyst (proponent to CCST (certified cybersecurity support technician))
+  - CompTIA Linux+:
   - <b>Identity and Access Management:</b>
   
 <h2> 🤳 🔗Connect with me:</h2> 
@@ -43,6 +42,10 @@
 [<img align="left" alt="Mmedara Affia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/mmedara-affia
+
+[<img align="left" alt="Mmedara Affia | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+[medium]: https://medium.com/@arademm
 
 <!-- 👩💁🎓🏁🎮📹📷🎲🎱📡📝📣📮🔮👔👓🔩💻📅⚠⛳🌁🌌🌠🍃♻☑❓✖❗❕✅❔©®™💱💲💰💯💳💪ℹ🆗🆓🆘🔐🔏🔌🔓🔗🔠🔡🔢⌚⏰
 **a-r-a-d-e-m-m/a-r-a-d-e-m-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
