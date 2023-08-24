@@ -1,16 +1,20 @@
 <h1>Hi, I'm Mmedara! </h1>
-<h3>I am your security guardian.
-  I protect you and your organisation from cybercriminals by detecting attacks before they happen to save you the cost of implementing an incident response plan and tracking them if they breach to make sure they don't get away with sensitive data.</h3>
+<h3>I am your organisation's guardian.
+<br> <sub>I protect you and your organisation from cybercriminals by detecting attacks before they happen to save you the cost of implementing an incident response plan <i>and</i> tracking attackers if they breach to make sure they don't get away with sensitive data. </sub>
+</h3>
 
-- 🔭 I’m currently working on fraud detection and prevention <br>
+
+- 🔭 I’m currently working on fraud detection and prevention projects<br>
 - 🌱 I’m currently learning digital forensics and threat intelligence within an elite force called CyberGirls Fellowship 3.0 <br>
-- 👯 I’m looking to collaborate on security research and solution architecting<br>
+- 👯 I’m looking to collaborate on security research, risk management and solution architecting <br>
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-Analyst, engineer, solution architect... call me anything you want; I just love to keep the ship tight. And that's what I do here:<br>
+<h5>Analyst, engineer, solution architect... call me anything you want; I just love to keep the ship tight. And that's what I do here:<br>
+</h5>
+
 * * *
 <h2> 💁 🔏 Cyber Security Projects:</h2>
 
@@ -23,16 +27,16 @@ Analyst, engineer, solution architect... call me anything you want; I just love 
     - [How I Assessed a Vulnerability and Recommended Actionable Mitigations](https://github.com/a-r-a-d-e-m-m/Responding_to_a_Zero-Day_Vulnerability)
     - [How I Stopped a Ransomware Attack by Decrypting a Hijacked File Using Python](https://github.com/a-r-a-d-e-m-m/Bypassing_Ransomware)
 
-- <b> Home Labs </b>
+<!-- - <b> Home Labs </b>
 - <b> CTFs </b>
-* * *
+-->
+
 <h2> 🎓 🔏  Certifications & Skill Badges:</h2>
 
-- <b>Google IT Support Professional Certified:</b> [View Google IT Support Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J) (eq. to Comptia A+)
-- <b>Junior Cyber Security Analyst</b> (eq. to CCST (certified cybersecurity support technician))
-- <b>CompTIA Linux+:</b>
-- <b>Identity and Access Management:</b>
-
+  - <b>Google IT Support Professional Certified:</b> [View](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J) (proponent to CompTIA A+)
+  - <b>Junior Cyber Security Analyst</b> [View] (proponent to CCST (certified cybersecurity support technician))
+  - <b>CompTIA Linux+:</b> [View]
+  - <b>Identity and Access Management:</b>
   
 <h2> 🤳 🔗Connect with me:</h2> 
 
