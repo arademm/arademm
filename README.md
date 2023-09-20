@@ -29,7 +29,7 @@
 
 - <b> Home Labs </b>
 - <b> CTFs </b>
-
+    - [My attempts from PicoCTF 2023 challenges](https://github.com/arademm/PicoCTF2023)
 <h2> 🎓 🔏  Certifications & Skill Badges:</h2>
 
   - [Google IT Support Professional Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J) (proponent to CompTIA A+)
