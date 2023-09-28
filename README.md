@@ -1,7 +1,6 @@
-<h1>Hi, I'm Mmedara! </h1>
-<h3>I am your organisation's guardian.
-<br> <sub>I protect you and your organisation from cybercriminals by detecting attacks before they happen to save you the cost of implementing an incident response plan <i>and</i> tracking attackers if they breach to make sure they don't get away with sensitive data. </sub>
-</h3>
+# Hi, I'm Mmedara!
+I am your guardian.
+I protect you and your organisation from cybercriminals by detecting attacks before they happen to save you the cost of implementing an incident response plan <i>and</i> tracking attackers if they breach to make sure they don't get away with sensitive data.
 
 
 - 🔭 I’m currently working on fraud detection and prevention projects<br>
@@ -12,13 +11,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<h5>Analyst, engineer, solution architect... call me anything you want; I just love to keep the ship tight. And that's what I do here:<br>
-</h5>
+Analyst, engineer, solution architect... call me anything you want; I just love to keep the ship tight. And that's what I do here:
 
 * * *
-<h2> 💁 🔏 Cyber Security Projects:</h2>
+ ## 💁 🔏 Cyber Security Projects:
 
-- <b>Humane Tech Inspired:</b>
+- **Humane Tech Inspired:**
   - <b> Improve Your Personal Digital Security In 10 Minutes </b>
     - [Your Online Presence](https://github.com/a-r-a-d-e-m-m/Control-Your-Online-Information)
 
@@ -37,7 +35,7 @@
   - CompTIA Linux+:
   - <b>Identity and Access Management:</b>
   
-<h2> 🤳 🔗Connect with me:</h2> 
+# 🤳 🔗Connect with me:
 
 [<img align="left" alt="Mmedara Affia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
