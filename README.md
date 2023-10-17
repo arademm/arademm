@@ -27,7 +27,7 @@ Analyst, engineer, solution architect... call me anything you want; I just love 
 
 - <b> Home Labs </b>
   - Investigations
-    - [Case #B4DM755](https://github.com/arademm/Case-B4DM755/blob/main/README.md)
+    - [Forensic Lab Analyst on Case #B4DM755](https://github.com/arademm/Case-B4DM755/blob/main/README.md)
 
 - <b> CTFs </b>
     - [My attempts from PicoCTF 2023 challenges](https://github.com/arademm/PicoCTF2023)
