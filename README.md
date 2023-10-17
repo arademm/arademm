@@ -1,5 +1,5 @@
 # Hi, I'm Mmedara!
-I am your guardian.
+I am your guardian. <br>
 I protect you and your organisation from cybercriminals by detecting attacks before they happen to save you the cost of implementing an incident response plan <i>and</i> tracking attackers if they breach to make sure they don't get away with sensitive data.
 
 
@@ -26,6 +26,9 @@ Analyst, engineer, solution architect... call me anything you want; I just love 
     - [How I Stopped a Ransomware Attack by Decrypting a Hijacked File Using Python](https://github.com/a-r-a-d-e-m-m/Bypassing_Ransomware)
 
 - <b> Home Labs </b>
+  - Investigations
+    - [Case #B4DM755](https://github.com/arademm/Case-B4DM755/blob/main/README.md)
+
 - <b> CTFs </b>
     - [My attempts from PicoCTF 2023 challenges](https://github.com/arademm/PicoCTF2023)
 <h2> 🎓 🔏  Certifications & Skill Badges:</h2>
