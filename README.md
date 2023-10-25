@@ -29,6 +29,9 @@ Analyst, engineer, solution architect... call me anything you want; I just love 
   - Investigations
     - [Forensic Lab Analyst on Case #B4DM755](https://github.com/arademm/Case-B4DM755/blob/main/README.md)
 
+  - Documentation
+    - [Botium Toys Internal Security Audit](https://github.com/arademm/Internal-Security-Audit)
+
 - <b> CTFs </b>
     - [My attempts from PicoCTF 2023 challenges](https://github.com/arademm/PicoCTF2023)
 <h2> 🎓 🔏  Certifications & Skill Badges:</h2>
