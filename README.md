@@ -37,9 +37,10 @@ Analyst, engineer, solution architect... call me anything you want; I just love 
 <h2> 🎓 🔏  Certifications & Skill Badges:</h2>
 
   - [Google IT Support Professional Certified (Coursera, 2022)](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J) (proponent to CompTIA A+)
-  - [Junior Cyber Security Analyst (Cisco, 2023)](https://www.credly.com/earner/earned/badge/04f1bc24-398d-472c-b23f-c66077f746f9)(proponent to CCST (certified cybersecurity support technician))
+  - [Junior Cyber Security Analyst (Cisco, 2023)](https://www.credly.com/earner/earned/badge/04f1bc24-398d-472c-b23f-c66077f746f9) (proponent to CCST (certified cybersecurity support technician))
   - [CompTIA Linux+ (Infosec, 2023)](https://drive.google.com/file/d/1klc8NXMVBED_a62G9swwYk5ZXwxODeL-/view?usp=drive_link)
   - [Identity and Access Management (Infosec, 2023](https://drive.google.com/file/d/1wZIWHV8_HxHwqIhWkiLLzwTeDEq-Fx0p/view?usp=drive_link)
+  - [Cyber Threat Intelligence 101 (arcX, 2023)](https://drive.google.com/file/d/1irpqVAFJExwO7XFqGHNF_ryqLshJNIQ0/view?usp=drive_link)
   
 # 🤳 🔗Connect with me:
 
