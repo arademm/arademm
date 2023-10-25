@@ -37,7 +37,7 @@ Analyst, engineer, solution architect... call me anything you want; I just love 
 <h2> 🎓 🔏  Certifications & Skill Badges:</h2>
 
   - [Google IT Support Professional Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/BKMYNG8RFP3J) (proponent to CompTIA A+)
-  - Junior Cyber Security Analyst (proponent to CCST (certified cybersecurity support technician))
+  - [Junior Cyber Security Analyst](https://www.credly.com/earner/earned/badge/04f1bc24-398d-472c-b23f-c66077f746f9)(proponent to CCST (certified cybersecurity support technician))
   - CompTIA Linux+:
   - <b>Identity and Access Management:</b>
   
